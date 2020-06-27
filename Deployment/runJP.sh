@@ -8,6 +8,7 @@ project=JCalc
 # Delete previous application image
 rm -rf $output
 
+# TRY TYPE = "exe" (wix error before)
 # Define function to create application image
 createApp() {
 	jpackage \
