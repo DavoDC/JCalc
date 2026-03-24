@@ -1,5 +1,9 @@
 # JCalc
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
+
 A Java Swing calculator with two modes - a clean simple calculator and a full-featured classic calculator.
 
 ![Preview1](https://github.com/DavoDC/JCalc/blob/master/Preview1.png)
