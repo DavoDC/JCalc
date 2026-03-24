@@ -20,4 +20,4 @@ Run the executable from `Executable/`. Starts in simple mode - switch to classic
 
 ## Development
 
-**Started:** November 2019 · Actively maintained
+**Started:** November 2019 · Not actively maintained
